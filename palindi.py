@@ -1,4 +1,4 @@
-n=7997
+n=6996
 origin=n
 rev=0
 while n>0:
