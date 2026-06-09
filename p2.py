@@ -1,4 +1,4 @@
-for num in range(2, 10):
+for num in range(2, 15):
     is_prime = True
 
     for i in range(2, num):
