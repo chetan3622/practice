@@ -3,7 +3,7 @@ a=0
 b=1
 while a <= n:
     if a==n:
-        print('Fibonacci Number')
+        print('Fibonacci')
         break
     a,b=b,a+b
 else:    
