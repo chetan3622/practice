@@ -7,4 +7,4 @@ while a <= n:
         break
     a,b=b,a+b
 else:    
-    print('Not Fibonacci Number')  
+    print('Not Fibonacci ')  
