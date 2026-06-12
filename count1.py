@@ -1,4 +1,4 @@
-n=972572
+n=97252
 count=0
 while n>0:
     rem=n%10
