@@ -4,4 +4,4 @@ while n>0:
     r=n%10
     sum=sum+r
     n=n//10
-print('the sum of the digits is',sum)
+print('sum of the digits is',sum)
