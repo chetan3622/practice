@@ -8,4 +8,4 @@ while n>0:
 if origin==rev:
     print("Palindrome")
 else:
-    print("Not a Palindrome")
+    print("Not Palindrome")
