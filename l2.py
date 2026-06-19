@@ -1,5 +1,5 @@
 def avg():
-    a=4
+    a=7
     b=5
     print((a+b)/2)
 avg()

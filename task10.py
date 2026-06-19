@@ -1,5 +1,5 @@
-a=5
-b=8
+a=90
+b=80
 sum=a+b
 sub=a-b
 mul=a*b

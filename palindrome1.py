@@ -1,4 +1,4 @@
-n=1313
+n=9009
 original=n
 rev=0
 while n>0:

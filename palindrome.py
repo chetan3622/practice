@@ -1,4 +1,4 @@
-n = input("Enter number: ")
+n = input("Enter number to check palindrome: ")
 if n == n[::-1]:
     print("Palindrome")
 else:

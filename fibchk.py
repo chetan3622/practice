@@ -1,4 +1,4 @@
-n=int(input("Enter number: "))
+n=int(input("Enter number of terms:"))
 a=0
 b=1
 while a <= n:

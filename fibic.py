@@ -1,4 +1,4 @@
-n=int(input("Enter the number of Fibonacci terms: "))
+n=int(input("Enter the number of Fibonacci terms:"))
 a=0
 b=1
 while a<=n:
