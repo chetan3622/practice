@@ -1,8 +1,11 @@
 n=int(input('enter a number'))
 a=0
 b=1
-for i in range(n):
-    print(a)
+while a<n:
     c=a+b
     a=b
     b=c
+if a==n:
+    print('yes')
+else:
+    print('no')
