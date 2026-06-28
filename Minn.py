@@ -1,0 +1,6 @@
+l=[92783,6927,4896,5279,8262,7562]
+minimum=l[0]
+for i in l:
+    if i < minimum:
+        minimum=i
+print(minimum)
