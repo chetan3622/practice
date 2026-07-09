@@ -1,1 +1,1 @@
-int=input('')
+int=input('enter a number')
