@@ -1,2 +1,2 @@
 n=input('enter a number')
-for i in
+for i in range(n):
