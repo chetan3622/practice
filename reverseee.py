@@ -1,2 +1,2 @@
 s='Start'
-print
+print()
