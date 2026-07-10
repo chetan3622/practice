@@ -1,2 +1,2 @@
 s='Start'
-print([s])
+print(s[::-1])
