@@ -1,5 +1,5 @@
 k=[48,4,74,33,245,76,75]
-min=k[0]
+minimum=k[0]
 for i in k:
     if i <  min:
         min=i
