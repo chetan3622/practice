@@ -3,4 +3,4 @@ minimum=k[0]
 for i in k:
     if i <  minimum:
         minimum=i
-print(min)
+print(minimum)
