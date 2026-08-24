@@ -1,6 +1,6 @@
-k=[48,4,74,33,245,764,754]
-min=k[0]
+k=[48,4,74,33,245,76,75]
+minimum=k[0]
 for i in k:
-    if i <  min:
-        min=i
-print(min)
+    if i <  minimum:
+        minimum=i
+print(minimum)

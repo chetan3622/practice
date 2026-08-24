@@ -1,6 +1,6 @@
-n=[990,756,694,489,293,584,59]
-maximum=n[0]
+n=[99,75,69,48,29,58,59]
+max=n[0]
 for i in n:
-    if i > maximum:
-        maximum=i
-print(maximum)
+    if i > max:
+        max=i
+print(max)
